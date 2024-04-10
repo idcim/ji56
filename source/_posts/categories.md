@@ -4,6 +4,11 @@ layout: categories
 sticky : true
 ---
 
+# 怎么使用呢？
+- 主要步骤：登录后台-》设置状态语-》添加订单-》更新订单
+
+
+
 ## [极物流系统简介](../系统使用简介)
 
 ## [初始化后台](/ji56/index/index/index)
@@ -17,6 +22,7 @@ sticky : true
 - -- [物流订单更新](/ji56/order/order/更新物流信息)
 - -- [批量更新](/ji56/order/order/批量更新)
 - -- [批量新增](/ji56/order/order/批量新增物流订单)
+
 
 
 # [联系我们](../联系我们)
