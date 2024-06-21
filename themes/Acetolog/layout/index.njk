@@ -84,7 +84,7 @@
                 {% endfor %}
             </ul>
             <nav class="dis_flex al_post_nav">
-                <a class="al_post_nav_item dis_flex_acenter" href="{{ config.root + '/' + page.prev_link or '/' }}">
+                <a class="al_post_nav_item dis_flex_acenter" href="{{ '/' + page.prev_link or '/' }}">
                     {% if page.prev !== 0 %}
                         <svg class="al_arrow">
                             <use xmlns="http://www.w3.org/2000/svg" xlink:href="/assets/svg_icons.svg#svg-arrow-left"></use>
@@ -92,7 +92,7 @@
                         <span>上一页</span>
                     {% endif %}
                 </a>
-                <a class="al_post_nav_item dis_flex_acenter" href="{{ config.root + '/' + page.next_link or '/' }}">
+                <a class="al_post_nav_item dis_flex_acenter" href="{{ '/' + page.next_link or '/' }}">
                     {% if page.next !== 0 %}
                         <span>下一页</span>
                         <svg class="al_arrow">
