@@ -14,8 +14,8 @@ avatar: /images/logo.png
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://idcim.github.io
-root: /ji56
+url: https://doc.ji56.ru
+root: /
 permalink: :category/:title/
 permalink_defaults:
 pretty_urls:
