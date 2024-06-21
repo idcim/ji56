@@ -18,7 +18,7 @@ gitalk:
   enable: false
   clientID: github_clientID
   clientSecret: github_clientSecret
-  repo: https://qisop.gitee.io/ji56/
+  repo: https://doc.ji56.ru/
   owner: your username
   admin: same as [owner]
 
