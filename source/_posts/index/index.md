@@ -14,4 +14,4 @@ categories:
 点击左边导航-》物流多语言
 ![image.png](/images/image3.png)
 
-系统使用前要先[设置状态语](/ji56/order/order/状态语设置)
+系统使用前要先[设置状态语](/index/index/状态语设置)
